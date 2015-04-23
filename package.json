@@ -8,7 +8,9 @@
     "ulr": "https://github.com/bbofrk/scotchbox-node.git"
   },
   "dependencies": {
+    "ejs": "^2.3.1",
     "express": "^4.12.3",
+    "instagram-node": "^0.5.7",
     "mongoose": "latest"
   },
   "author": "Chirs Sevilleja",
