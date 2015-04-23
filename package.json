@@ -1,0 +1,17 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "The code reository for the Node booklet",
+  "main": "server.js",
+  "reporsitory": {
+    "type": "git",
+    "ulr": "https://github.com/bbofrk/scotchbox-node.git"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "latest"
+  },
+  "author": "Chirs Sevilleja",
+  "license": "Mit",
+  "homepage": "https://scotch.io"
+}
